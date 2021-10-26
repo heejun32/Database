@@ -32,8 +32,7 @@ FROM DEPT D LEFT OUTER JOIN EMP E ON (D.DEPTNO = E.DEPTNO)
 ORDER BY D.DEPTNO, E.ENAME;
 
 --Q4. SQL-99이전 방식
-SELECT
-
+이 부분은 추후 학습이 더 필요하다고 판단됨
 
 --Q4. SQL-99이후 방식
 
